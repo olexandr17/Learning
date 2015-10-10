@@ -258,8 +258,15 @@ __Шаблоны проектирования__
 - [Loftblog. Основы ООП и паттернов проектирования](http://loftblog.ru/category/courses/oop-and-design-patterns/)
 
 
+__Разные технологии__
+
+- [ Школа Программирования (Git, HTML, JavaScript, Java, Android, PHP. .NET)](https://www.youtube.com/user/progliveru/videos)
+
+
 
 ## Статьи
+
+- [Принципы проектирования классов (S.O.L.I.D.)](http://blog.byndyu.ru/2009/10/solid.html)
 
 - [Паттерны: MVC, MVP и MVVM](https://outcoldman.com/ru/archive/2010/02/22/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-mvc-mvp-%D0%B8-mvvm/)
 
