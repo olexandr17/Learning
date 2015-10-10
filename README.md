@@ -75,6 +75,17 @@ __Javascript__
 
 - [JavaScript Гарден](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
+- [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+
+
+__Node.JS__
+
+- [Web разработка на node.js и express](https://github.com/DavidKlassen/node-tutorial/wiki/Web-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-node.js-%D0%B8-express)
+
+- [Discover Meteor](http://uk.discovermeteor.com/)
+
+- [Node.js для начинающих](http://nodebeginner.ru/)
+
 
 __Unity__
 
@@ -112,7 +123,13 @@ __Шаблоны проектирования__
 
 __Разное__
 
+- [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
+
 - [Pro Git](http://git-scm.com/book/ru/v1)
+
+- [Git How To](http://githowto.com/ru)
+
+- [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 
 - [Рефакторинг](https://refactoring.guru/ru/catalog)
 
@@ -279,3 +296,5 @@ __Разные технологии__
 - [JS Sandbox](http://jsfiddle.net/)
 
 - [.NET Sandbox](https://dotnetfiddle.net/)
+
+- [Pastebin](http://pastebin.com/)
