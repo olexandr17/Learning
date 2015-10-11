@@ -107,6 +107,46 @@
 
   * [Основы JavaScript](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 
+- [Hexlet](https://www.youtube.com/user/HexletUniversity/playlists)
+
+  * [Введение в Javascript](https://www.youtube.com/playlist?list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR)
+
+
+**Статьи**
+
+- [For web Dev](http://forwebdev.ru/)
+
+  * [Нативные геттеры и сеттеры в JavaScript](http://forwebdev.ru/javascript/native-accessor-properties/)
+
+  * [Боремся с проблемой this в конструкторах](http://forwebdev.ru/javascript/dealing-with-this/)
+
+  * [Свойства и методы прототипа](http://forwebdev.ru/javascript/prototype-properties-methods/)
+
+  * [Promise. Работаем с асинхронным JavaScript](http://forwebdev.ru/javascript/promise-javascript/)
+
+  * [Используем requestAnimationFrame](http://forwebdev.ru/javascript/using-requestanimationframe/)
+
+
+**Библиотеки**
+
+- [JQuery](http://jquery.com/)
+
+- [Backbone](http://backbonejs.ru)
+
+- [Angular](http://angularjs.org)
+
+- [Underscore](http://underscorejs.ru/)
+
+- [Lodash](http://lodash.com/)
+
+- [Babel](http://babeljs.io/)
+
+- [Modernizr](http://modernizr.com/)
+
+- [Require](http://requirejs.org)
+
+- [Moment](http://momentjs.com/)
+
 
 
 ## Node.JS

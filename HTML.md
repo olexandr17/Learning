@@ -18,6 +18,8 @@
 
 - [Путь веб-мастера](http://denweb.ru/put-veb-mastera_sod)
 
+- [HTML5 Canvas](http://www.html5canvas.ru/p/tutorial.html)
+
 
 **Видеоуроки**
 

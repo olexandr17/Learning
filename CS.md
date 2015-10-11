@@ -28,6 +28,10 @@
 
   * [ASP.NET](http://professorweb.ru/my/ASP_NET/base/level1/aspnet_info.php)
 
+- [Andrey on .NET](http://andrey.moveax.ru/)
+
+  * [ASP.NET MVC в деталях](http://andrey.moveax.ru/page/aspnet-mvc-3-in-depth)
+
 - [Сборник рецептов](http://codearticles.ru/catalogs)
 
 - [Kottans. CSharp presentations](http://kottans.org/csharp-slides/)
@@ -42,6 +46,8 @@
 - [GeekBrains](http://geekbrains.ru/courses)
 
   * [С#. Работа с API Вконтакте](http://geekbrains.ru/records/979/)
+
+- [Let's Program! Аудио-проигрыватель «VK.Player» на C#](https://www.youtube.com/playlist?list=PL3HgcLBj9sfV-gZqtOAOl1CTzpI5jVunn)
 
 - [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
 
@@ -78,6 +84,19 @@
 - [Ocode](https://www.youtube.com/user/easygamedev/playlists)
 
   * [Основы C#](https://www.youtube.com/playlist?list=PLczcTSDLfwNQCn2lmqmb3vefxq0Y0hdTb)
+
+- [Georgiy Mogelashvili](https://www.youtube.com/user/gmogelashvili/playlists)
+
+  * [C# Base Lite](https://www.youtube.com/playlist?list=PLtjuvkyFrt5UPJOApU_8lb98rgKifDEJZ)
+
+  * [Курс C# Base](https://www.youtube.com/playlist?list=PLtjuvkyFrt5WjvySK8HinYjyTObam4ROY)
+
+  * [C# PRO](https://www.youtube.com/playlist?list=PLtjuvkyFrt5VyW403aRcedPrU_qVglRex)
+
+
+**Библиотеки**
+
+- [Libraries and Frameworks for .NET](http://andrey.moveax.ru/page/libraries-and-frameworks)
 
 
 ## Unity
@@ -125,3 +144,9 @@
   * [Базовая 2D игра на Unity - Clicks](https://www.youtube.com/playlist?list=PLczcTSDLfwNQSTvc5V3HdFVMo9vzY0HuI)
 
   * [Введение в Unity3D](https://www.youtube.com/playlist?list=PLczcTSDLfwNRP57mgWwUghAdnfY_5pFnc)
+
+- [Alexander Sosnovskiy](https://www.youtube.com/user/afrokickzhl/playlists)
+
+- [4GameFree](https://www.youtube.com/user/4GameFree/playlists)
+
+  * [Unity3D уроки](https://www.youtube.com/playlist?list=PLD1B2C1D095B583B7)

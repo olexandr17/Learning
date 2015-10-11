@@ -25,13 +25,23 @@
 
   * [Введение в Java](http://loftblog.ru/category/courses/vvedenie-v-java/)
 
+- [Онлайн уроки по Java](https://www.youtube.com/user/ytkach/playlists)
+
+- [Петр Арсентьев. Java для начинающих](https://www.youtube.com/playlist?list=PLW8mAQ8rFUhKFkuXDTb3PT1GKz0T-lCv6)
+
+- [Java Trener. Особенности Java](https://www.youtube.com/playlist?list=PLSx6j6l70HPomStHjfE8irPNdVPiLHyo6)
+
+- [Hexlet](https://www.youtube.com/user/HexletUniversity/playlists)
+
+  * [Разработка приложений на Java](https://www.youtube.com/playlist?list=PLo6puixMwuSOYI4rSS3rjiYr61wSxt_oo)
+
 
 ## Android
 
 
 **Онлайн-учебники**
 
-- [StartAndroid](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
+- [Start Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 
 - [Сайт Александра Климова](http://developer.alexanderklimov.ru/android/)
 
@@ -67,3 +77,7 @@
 - [Loftblog](http://loftblog.ru/courses/)
 
   * [Разработка Android приложений](http://loftblog.ru/category/courses/razrabotka-android-prilozhenij/)
+
+- [e-Legion Ltd. LearnDroid](https://www.youtube.com/playlist?list=PLufI-p7bsMuRbTCnsoLrN6rWDl8MQ_TMM)
+
+- [Android Game Creator](https://www.youtube.com/user/androidgamecreator/videos)

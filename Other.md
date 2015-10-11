@@ -1,7 +1,7 @@
 [На главную](README.md)
 
 
-## Разное
+## Разные технологии
 
 
 **Онлайн-учебники**
@@ -12,6 +12,8 @@
 **Видеоуроки**
 
 - [Школа Программирования. Git, HTML, JavaScript, Java, C#](https://www.youtube.com/user/progliveru/videos)
+
+- [ExtremeCodeTV. Java, C#](https://www.youtube.com/user/iproname/videos)
 
 - [Как создать сайт. Основы Самостоятельного Сайтостроения](https://www.youtube.com/user/webformyself/playlists)
 
