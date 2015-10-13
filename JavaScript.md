@@ -111,6 +111,14 @@
 
   * [Введение в Javascript](https://www.youtube.com/playlist?list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR)
 
+- [Гоша Дударь](https://www.youtube.com/user/PlurrimiTube/playlists)
+
+  * [Изучение JavaScript от нуля до гуру](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
+
+  * [Изучение библиотек jQuery](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXQk_TTlSO7y7J1l5e-RMgi)
+
+  * [Изучение технологий Ajax](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUgBqIpiaES9vhZLJbucdUa)
+
 
 **Статьи**
 

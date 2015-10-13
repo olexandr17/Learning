@@ -35,3 +35,7 @@
 - [Master-CSS](https://www.youtube.com/user/TheSWAT727/playlists)
 
   * [PHP для начинающих](https://www.youtube.com/playlist?list=PLPpaecEYRC8Z7WLNSxiuJKeA0fsFC-AIQ)
+
+- [Гоша Дударь](https://www.youtube.com/user/PlurrimiTube/playlists)
+
+  * [Учим PHP, а также MySQL](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXm69bqj5JTCS1XGTNkhTch)

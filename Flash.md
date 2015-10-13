@@ -8,7 +8,7 @@
 
 - [AS3 документация](http://help.adobe.com/ru_RU/FlashPlatform/reference/actionscript/3/index.html)
 
-- [Перевод документации по Starling](http://demiart.ru/forum/index.php?showtopic=183472)
+- [Перевод документации по Starling](http://demiart.ru/forum/index.php?showtopic=183472) (необходима регистрация)
 
 
 **Видеоуроки**

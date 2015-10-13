@@ -84,3 +84,9 @@
 - [webtheory](https://www.youtube.com/user/WebTheory/playlists)
 
   * [HTML5 и CSS3](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
+
+- [Гоша Дударь](https://www.youtube.com/user/PlurrimiTube/playlists)
+
+  * [Изучение CSS/CSS3 от нуля до гуру!](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXoN83I4uVez8rIB25O4rk0)
+
+  * [Создаем сайт на основе CSS3 + HTML5](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXf1eqaJfdL9MJa1Naf5rd_)
