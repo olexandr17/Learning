@@ -14,19 +14,9 @@
 
   * [Руководство по JavaScript](http://metanit.com/web/javascript/)
 
-  * [Изучаем jQuery](http://metanit.com/web/jquery/)
-
-  * [Изучаем AngularJS](http://metanit.com/web/angular/)
-
-  * [Изучаем D3.js](http://metanit.com/web/d3js/)
-
-  * [Изучаем Ext JS 4](http://metanit.com/web/extjs/)
-
 - [ProfessorWeb](http://professorweb.ru/)
 
   * [Учебник JavaScript](http://professorweb.ru/my/javascript/js_theory/level1/javascript_index.php)
-
-  * [Библиотека jQuery](http://professorweb.ru/my/javascript/jquery/level1/jquery_index.php)
 
 - [JavaScript Гарден](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
@@ -38,18 +28,6 @@
 **Видеоуроки**
 
 - [Функциональный JavaScript](https://www.youtube.com/playlist?list=PLHOTezm7WWkktcAoYGtu_5HhjkRZjWb4M)
-
-- [BackboneJS - краткий курс](https://vk.com/videos139391752?section=album_54471630)
-
-- [BackboneJS's Videos](https://vk.com/videos-54146151?section=all)
-
-- [Николай Чернобаев. BackboneJS](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA/videos)
-
-- [Radik Fattakhov](https://www.youtube.com/user/radikft/playlists)
-
-  * [Ext JS - Создание простейшего приложения](https://www.youtube.com/playlist?list=PLm9AQhR8y9nP2gpxSa7QutLnh2ewnjzEL)
-
-  * [AngularJS](https://www.youtube.com/playlist?list=PLm9AQhR8y9nO6aEzmjOXELifem9Lr2X6n)
 
 - [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
 
@@ -63,29 +41,11 @@
 
   * [Видеокурс по JavaScript Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_-AAcqd6XeZxJMKdv55_mS)
 
-  * [Видеокурс по AngularJS Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4)
-
-  * [Видеокурс по jQuery](https://www.youtube.com/playlist?list=PLvItDmb0sZw964PmBjUcB75x17RK7M5ZA)
-
   * [Видеокурс по JavaScript Шаблонам проектирования](https://www.youtube.com/playlist?list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy)
 
 - [Loftblog](http://loftblog.ru/courses/)
 
-  * [Angular + Webpack](http://loftblog.ru/category/courses/angular-webpack/)
-
-  * [Backbone.js](http://loftblog.ru/category/courses/backbonejs/)
-
-  * [Введение в Knockout.js](http://loftblog.ru/category/courses/vvedenie-v-knockout-js/)
-
-  * [Основы AngularJS](http://loftblog.ru/category/courses/angularjs-fundamentals/)
-
-  * [Основы jQuery](http://loftblog.ru/category/courses/jquery_fundamentals/)
-
   * [Основы Javascript](http://loftblog.ru/category/courses/osnovy-javascript/)
-
-  * [Основы React.js](http://loftblog.ru/category/courses/osnovy-react-js/)
-
-  * [Плагины jQuery](http://loftblog.ru/category/courses/plaginy-jquery/)
 
   * [Плагины для FrontEnd разработчика](http://loftblog.ru/category/courses/plaginy-dlya-frontend-razrabotchika/)
 
@@ -115,9 +75,11 @@
 
   * [Изучение JavaScript от нуля до гуру](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
 
-  * [Изучение библиотек jQuery](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXQk_TTlSO7y7J1l5e-RMgi)
-
   * [Изучение технологий Ajax](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUgBqIpiaES9vhZLJbucdUa)
+
+- [WebMarik](https://www.youtube.com/user/jquerymobilerussia/playlists)
+
+  * [Основы Ajax для начинающих](https://www.youtube.com/playlist?list=PLK_oZBjlNZ3OHycDdo5H_1dF1xl-o2wWF)
 
 
 **Статьи**
@@ -135,7 +97,11 @@
   * [Используем requestAnimationFrame](http://forwebdev.ru/javascript/using-requestanimationframe/)
 
 
-**Библиотеки**
+
+## Библиотеки
+
+
+**Ссылки**
 
 - [JQuery](http://jquery.com/)
 
@@ -156,23 +122,63 @@
 - [Moment](http://momentjs.com/)
 
 
-
-## Node.JS
-
-
 **Онлайн-учебники**
 
-- [Web разработка на node.js и express](https://github.com/DavidKlassen/node-tutorial/wiki/Web-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-node.js-%D0%B8-express)
+- [Metanit](http://metanit.com/)
 
-- [Discover Meteor](http://uk.discovermeteor.com/)
+  * [Изучаем jQuery](http://metanit.com/web/jquery/)
 
-- [Node.js для начинающих](http://nodebeginner.ru/)
+  * [Изучаем AngularJS](http://metanit.com/web/angular/)
+
+  * [Изучаем D3.js](http://metanit.com/web/d3js/)
+
+  * [Изучаем Ext JS 4](http://metanit.com/web/extjs/)
+
+- [ProfessorWeb](http://professorweb.ru/)
+
+  * [Библиотека jQuery](http://professorweb.ru/my/javascript/jquery/level1/jquery_index.php)
 
 
 **Видеоуроки**
 
-- [Magisters | Обучение современным профессиям](https://www.youtube.com/user/WebMagistersRu/playlists)
+- [BackboneJS - краткий курс](https://vk.com/videos139391752?section=album_54471630)
 
-  * [Node.JS с нуля (Javascript.ru)](https://www.youtube.com/playlist?list=PLypd1VrGv7FM2Qv8fzYnL5TAik0OAyINN)
+- [BackboneJS's Videos](https://vk.com/videos-54146151?section=all)
 
-  * [Создание чата на Node.JS (Javascript.ru)](https://www.youtube.com/playlist?list=PLypd1VrGv7FNghd_Fwldl19iJBaa4S2W5)
+- [Николай Чернобаев. BackboneJS](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA/videos)
+
+- [Radik Fattakhov](https://www.youtube.com/user/radikft/playlists)
+
+  * [Ext JS - Создание простейшего приложения](https://www.youtube.com/playlist?list=PLm9AQhR8y9nP2gpxSa7QutLnh2ewnjzEL)
+
+  * [AngularJS](https://www.youtube.com/playlist?list=PLm9AQhR8y9nO6aEzmjOXELifem9Lr2X6n)
+
+- [ITVDN](https://www.youtube.com/user/CBSystematicsTV/playlists)
+
+  * [Видеокурс по AngularJS Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4)
+
+  * [Видеокурс по jQuery](https://www.youtube.com/playlist?list=PLvItDmb0sZw964PmBjUcB75x17RK7M5ZA)
+
+- [Loftblog](http://loftblog.ru/courses/)
+
+  * [Angular + Webpack](http://loftblog.ru/category/courses/angular-webpack/)
+
+  * [Backbone.js](http://loftblog.ru/category/courses/backbonejs/)
+
+  * [Введение в Knockout.js](http://loftblog.ru/category/courses/vvedenie-v-knockout-js/)
+
+  * [Основы AngularJS](http://loftblog.ru/category/courses/angularjs-fundamentals/)
+
+  * [Основы jQuery](http://loftblog.ru/category/courses/jquery_fundamentals/)
+
+  * [Основы React.js](http://loftblog.ru/category/courses/osnovy-react-js/)
+
+  * [Плагины jQuery](http://loftblog.ru/category/courses/plaginy-jquery/)
+
+- [Гоша Дударь](https://www.youtube.com/user/PlurrimiTube/playlists)
+
+  * [Изучение библиотек jQuery](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXQk_TTlSO7y7J1l5e-RMgi)
+
+- [WebMarik](https://www.youtube.com/user/jquerymobilerussia/playlists)
+
+  * [Видео уроки по JQuery Mobile](https://www.youtube.com/playlist?list=PLK_oZBjlNZ3MlqBZDVR56Ue4l-QYE2KNu)

@@ -20,6 +20,12 @@
 
 - [RegExr](http://www.regexr.com/)
 
+- [ES6. Interactive Guide](http://projects.formidablelabs.com/es6-interactive-guide/#/)
+
+- [JS Nice](http://jsnice.org/)
+
+- [Browser Shots](http://browsershots.org/)
+
 
 **Статьи**
 

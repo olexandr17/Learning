@@ -2,7 +2,9 @@
 
 [Java, Android](Java.md)
 
-[JavaScript, Node.js](JavaScript.md)
+[JavaScript, Библиотеки](JavaScript.md)
+
+[Node.js](Node.md)
 
 [HTML, CSS](HTML.md)
 
