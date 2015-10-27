@@ -1,8 +1,10 @@
-[C#, Unity](CS.md)
+[C#](CS.md)
+
+[Unity](Unity.md)
 
 [Java, Android](Java.md)
 
-[JavaScript, Библиотеки](JavaScript.md)
+[JavaScript, библиотеки](JavaScript.md)
 
 [Node.js](Node.md)
 
@@ -10,7 +12,7 @@
 
 [PHP](PHP.md)
 
-[Flash, Haxe](Flash.md)
+[Flash, Haxe, библиотеки](Flash.md)
 
 [Git](Git.md)
 

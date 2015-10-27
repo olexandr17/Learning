@@ -34,3 +34,9 @@
 - [Дмитрий Гурин. Node.JS от А до Я](https://www.youtube.com/playlist?list=PLV-WhzoNRDu_tiTM7OoyEGC5Ei863jmsp)
 
 - [Ilya Kantor. Скринкаст по Node.JS](https://www.youtube.com/playlist?list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)
+
+
+
+**Статьи**
+
+- [Искусство Node](http://frontender.info/art-of-node/)

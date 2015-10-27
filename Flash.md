@@ -32,6 +32,18 @@
 
   * [более наглядная версия](http://injun.ru/?p=1036)
 
+- [Starling](http://gamua.com/starling/)
+
+- [Box2D](http://www.box2dflash.org/)
+
+- [Nape](http://napephys.com/)
+
+- [Caurina Tweener](https://code.google.com/p/tweener/)
+
+- [Greensock GSAP](https://greensock.com/gsap-as)
+
+- [MinimalComps](http://minimalcomps.com/index.html)
+
 
 ## Haxe
 

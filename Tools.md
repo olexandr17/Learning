@@ -18,7 +18,7 @@
 
 - [Easings](http://easings.net/uk)
 
-- [RegExr](http://www.regexr.com/)
+- [Regex](https://regex101.com/)
 
 - [ES6. Interactive Guide](http://projects.formidablelabs.com/es6-interactive-guide/#/)
 
