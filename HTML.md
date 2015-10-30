@@ -90,3 +90,9 @@
   * [Изучение CSS/CSS3 от нуля до гуру!](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXoN83I4uVez8rIB25O4rk0)
 
   * [Создаем сайт на основе CSS3 + HTML5](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXf1eqaJfdL9MJa1Naf5rd_)
+
+- [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw)
+
+  * [CSS](https://www.youtube.com/playlist?list=PLcVuGt1dXgc26__OgVLF0mBFpeT9Nk_fq)
+
+  * [SASS](https://www.youtube.com/playlist?list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z)

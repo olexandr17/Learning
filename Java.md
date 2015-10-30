@@ -35,6 +35,15 @@
 
   * [Разработка приложений на Java](https://www.youtube.com/playlist?list=PLo6puixMwuSOYI4rSS3rjiYr61wSxt_oo)
 
+- [Sergey Nemchinsky](https://www.youtube.com/user/pro100fox2/featured)
+
+  * [Java для начинающих](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
+
+  * [Байки про Java](https://www.youtube.com/playlist?list=PLmqFxxywkatSezlaoxwFbdBBnAk_JJ__5)
+
+  * [Лекции по основам Java](https://www.youtube.com/playlist?list=PLmqFxxywkatRQsM9u0p-6-vvzlJgnVwKE)
+
+
 
 ## Android
 
@@ -81,3 +90,9 @@
 - [e-Legion Ltd. LearnDroid](https://www.youtube.com/playlist?list=PLufI-p7bsMuRbTCnsoLrN6rWDl8MQ_TMM)
 
 - [Android Game Creator](https://www.youtube.com/user/androidgamecreator/videos)
+
+
+
+**Статьи**
+
+- [Шпаргалка программиста Java 3. Коллекции в Java (стандартные, guava, apache, trove, gc-collections и другие)](http://habrahabr.ru/company/luxoft/blog/256877/)

@@ -8,6 +8,8 @@
 
 - [Современный учебник JavaScript](https://learn.javascript.ru)
 
+- [Справочник JavaScript](http://javascript.ru/manual)
+
 - [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
 - [Metanit](http://metanit.com/)
@@ -138,6 +140,18 @@
 
   * [Библиотека jQuery](http://professorweb.ru/my/javascript/jquery/level1/jquery_index.php)
 
+- [AngularJS Rus](http://www.angular.ru/)
+
+  * [Tutorial](http://www.angular.ru/tutorial)
+
+  * [Developer Guide](http://www.angular.ru/guide/)
+
+  * [API Reference](http://www.angular.ru/api/)
+
+  * [Angular UI](http://www.angular.ru/ui/)
+
+  * [Examples](http://www.angular.ru/cookbook/)
+
 
 **Видеоуроки**
 
@@ -182,3 +196,13 @@
 - [WebMarik](https://www.youtube.com/user/jquerymobilerussia/playlists)
 
   * [Видео уроки по JQuery Mobile](https://www.youtube.com/playlist?list=PLK_oZBjlNZ3MlqBZDVR56Ue4l-QYE2KNu)
+
+- [Artem Demo](https://www.youtube.com/user/artemdemo/feed)
+
+  * [Разработка гибридных приложений под android](https://www.youtube.com/playlist?list=PLekXsNOWGqmyxWzNtYNxBNqMlGzCgviAM)
+
+  * [[RestApp] - AngularJS + jQuery Mobile](https://www.youtube.com/playlist?list=PLekXsNOWGqmw8kH-LtWMzlzfe1L-dSytb)
+
+- [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw)
+
+  * [jquery](https://www.youtube.com/playlist?list=PLcVuGt1dXgc1pUPgsJIffzQrvJO33YofH)

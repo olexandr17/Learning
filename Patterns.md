@@ -35,6 +35,10 @@
 
   * [Паттерны проектирования](https://www.youtube.com/playlist?list=PLtjuvkyFrt5Wjd-973N117XS7xuuoD6XM)
 
+- [Sergey Nemchinsky](https://www.youtube.com/user/pro100fox2/featured)
+
+  * [Шаблоны разработки (полный курс)](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
+
 
 **Статьи**
 

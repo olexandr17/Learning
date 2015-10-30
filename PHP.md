@@ -4,6 +4,15 @@
 ## PHP
 
 
+**Онлайн-учебники**
+
+- [PHP: Правильный путь](http://getjump.me/ru-php-the-right-way/)
+
+- [Руководство по PHP](http://docs.php.net/manual/ru/)
+
+- [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
+
+
 **Видеоуроки**
 
 - [GeekBrains](http://geekbrains.ru/courses)
