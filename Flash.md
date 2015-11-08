@@ -10,6 +10,8 @@
 
 - [Перевод документации по Starling](http://demiart.ru/forum/index.php?showtopic=183472) (необходима регистрация)
 
+- [Цикл постов о Nape 2](http://flashnotes.ru/nape-2-soderzhanie.html)
+
 
 **Видеоуроки**
 

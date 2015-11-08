@@ -26,6 +26,8 @@
 
 - [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/)
 
+- [ES6 изнутри](http://css-live.ru/articles/obzor-es6-v-350-punktax.html)
+
 
 **Видеоуроки**
 
@@ -122,6 +124,8 @@
 - [Require](http://requirejs.org)
 
 - [Moment](http://momentjs.com/)
+
+- [Stage](http://piqnt.com/stage.js/)
 
 
 **Онлайн-учебники**

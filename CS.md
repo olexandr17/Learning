@@ -97,3 +97,10 @@
 **Библиотеки**
 
 - [Libraries and Frameworks for .NET](http://andrey.moveax.ru/page/libraries-and-frameworks)
+
+
+**Статьи**
+
+- [Делегаты и события в .NET](http://habrahabr.ru/post/198694/)
+
+- [Зачем нужны делегаты в C#?](http://habrahabr.ru/post/143925/)
