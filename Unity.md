@@ -66,3 +66,5 @@
   * [Volk Dabro Unity3D](https://www.youtube.com/playlist?list=PLmwh71NNqgLas_bCTq7NLUg_de1Acb_qg)
 
 - [Валерий Беляев. Программирование на C# под Unity](https://www.youtube.com/playlist?list=PLY7lEIeNqQdOsBi2QxPVgqLVecv3Br4TM)
+
+- [MILKY VOICE. Unity3d Tutorial](https://www.youtube.com/playlist?list=PLFCLzizKRCYdI2oM7g-NK63K465E8QsJQ)

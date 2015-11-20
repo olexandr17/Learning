@@ -2,7 +2,9 @@
 
 [Unity](Unity.md)
 
-[Java, Android](Java.md)
+[Java](Java.md)
+
+[Android](Android.md)
 
 [JavaScript, библиотеки](JavaScript.md)
 

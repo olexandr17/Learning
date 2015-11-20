@@ -32,6 +32,8 @@
 
 - [PlaceHold](http://placehold.it/)
 
+- [Programmr](http://www.programmr.com/)
+
 
 **Статьи**
 

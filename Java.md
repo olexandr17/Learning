@@ -44,65 +44,12 @@
   * [Лекции по основам Java](https://www.youtube.com/playlist?list=PLmqFxxywkatRQsM9u0p-6-vvzlJgnVwKE)
 
 
-
-## Android
-
-
-**Онлайн-учебники**
-
-- [Start Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
-
-- [Сайт Александра Климова](http://developer.alexanderklimov.ru/android/)
-
-- [DevColibri](http://devcolibri.com)
-
-- [Android ListView и ListActivity](http://www.vitalinvent.com/home/java/97-androidlistviewandlistactivitytutorial.html)
-
-- [Сборник рецептов](http://codearticles.ru/catalogs/540)
-
-- [Davidmd. Программирование под android](http://davidmd.ru/%D1%83%D1%80%D0%BE%D0%BA%D0%B8-%D0%BF%D0%BE-android/)
-
-- [Android Helper. Программирование под Android](http://android-helper.com.ua/android-lessons/)
-
-- [Интуит](http://www.intuit.ru/studies/courses)
-
-  * [Разработка приложений для ОС Android](http://www.intuit.ru/studies/courses/3703/945/info)
-
-- [Metanit](http://metanit.com/)
-
-  * [Программирование под Android](http://metanit.com/java/android/index.php)
-
-
-**Видеоуроки**
-
-- [DevColibri](https://www.youtube.com/user/devcolibri/playlists)
-
-  * [Уроки по Android](https://www.youtube.com/playlist?list=PLIU76b8Cjem7oSU18zTKNfsyzrmf3Zubl)
-
-  * [Full Android Application](https://www.youtube.com/playlist?list=PLIU76b8Cjem54jkj0XtCAp8JqZooY_eBI)
-
-  * [Material Design в Android](https://www.youtube.com/playlist?list=PLIU76b8Cjem7x0Ot_d0Z1nIq1Mk3PUW_Q)
-
-- [Loftblog](http://loftblog.ru/courses/)
-
-  * [Разработка Android приложений](http://loftblog.ru/category/courses/razrabotka-android-prilozhenij/)
-
-- [e-Legion Ltd. LearnDroid](https://www.youtube.com/playlist?list=PLufI-p7bsMuRbTCnsoLrN6rWDl8MQ_TMM)
-
-- [Android Game Creator](https://www.youtube.com/user/androidgamecreator/videos)
-
-- [Start Android. Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
-
-- [Мурдза Юрий](https://www.youtube.com/channel/UCESfDwV_FagagN1HJcwlL5w)
-
-  * [LibGDX 2d уроки](https://www.youtube.com/playlist?list=PL6nuOFXWusdGRBRRarMR5ydGq0RkUoFju)
-
-  * [LibGDX 3d game dev](https://www.youtube.com/playlist?list=PL6nuOFXWusdHD6M8aiouF-uPVl0lITrP8)
-
-  * [LibGDX 3d уроки](https://www.youtube.com/playlist?list=PL6nuOFXWusdFhgWKPfq__8o0SAHKJVfUw)
-
-
-
 **Статьи**
 
-- [Шпаргалка программиста Java 3. Коллекции в Java (стандартные, guava, apache, trove, gc-collections и другие)](http://habrahabr.ru/company/luxoft/blog/256877/)
+- [Шпаргалка Java программиста](http://habrahabr.ru/users/vedenin1980/topics/)
+
+  * [1: JPA и Hibernate в вопросах и ответах](http://habrahabr.ru/post/265061/)
+
+  * [3. Коллекции в Java (стандартные, guava, apache, trove, gc-collections и другие)](http://habrahabr.ru/company/luxoft/blog/256877/)
+
+  * [4. Java Stream API](http://habrahabr.ru/company/luxoft/blog/270383/)
