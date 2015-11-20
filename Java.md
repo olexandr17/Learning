@@ -91,6 +91,16 @@
 
 - [Android Game Creator](https://www.youtube.com/user/androidgamecreator/videos)
 
+- [Start Android. Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+
+- [Мурдза Юрий](https://www.youtube.com/channel/UCESfDwV_FagagN1HJcwlL5w)
+
+  * [LibGDX 2d уроки](https://www.youtube.com/playlist?list=PL6nuOFXWusdGRBRRarMR5ydGq0RkUoFju)
+
+  * [LibGDX 3d game dev](https://www.youtube.com/playlist?list=PL6nuOFXWusdHD6M8aiouF-uPVl0lITrP8)
+
+  * [LibGDX 3d уроки](https://www.youtube.com/playlist?list=PL6nuOFXWusdFhgWKPfq__8o0SAHKJVfUw)
+
 
 
 **Статьи**

@@ -93,6 +93,8 @@
 
   * [C# PRO](https://www.youtube.com/playlist?list=PLtjuvkyFrt5VyW403aRcedPrU_qVglRex)
 
+- [Дмитрий Ганжа. Основы программирования на ASP.NET](https://www.youtube.com/playlist?list=PLGX5w7S2SCgKNrUqyLmxfIAD2zTc-8-WR)
+
 
 **Библиотеки**
 

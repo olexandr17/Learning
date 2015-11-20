@@ -65,6 +65,8 @@
 
   * [HTML5 для начинающих](https://www.youtube.com/playlist?list=PLypd1VrGv7FN_QkwB5UIcVcP61yaj1HKc)
 
+  * [Уроки по Bootstrap 3](https://www.youtube.com/playlist?list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq)
+
 - [Master-CSS](https://www.youtube.com/user/TheSWAT727/playlists)
 
   * [HTML-мастер](https://www.youtube.com/playlist?list=PLPpaecEYRC8ZUr9Avu3_BLAFa8tsAxAzr)

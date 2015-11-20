@@ -64,3 +64,5 @@
   * [уроки по Unity3D!](https://www.youtube.com/playlist?list=PLmwh71NNqgLbAAKChaX1TVvXO1CN4-qhv)
 
   * [Volk Dabro Unity3D](https://www.youtube.com/playlist?list=PLmwh71NNqgLas_bCTq7NLUg_de1Acb_qg)
+
+- [Валерий Беляев. Программирование на C# под Unity](https://www.youtube.com/playlist?list=PLY7lEIeNqQdOsBi2QxPVgqLVecv3Br4TM)

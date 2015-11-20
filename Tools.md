@@ -30,6 +30,8 @@
 
 - [Browser Shots](http://browsershots.org/)
 
+- [PlaceHold](http://placehold.it/)
+
 
 **Статьи**
 

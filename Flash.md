@@ -12,6 +12,10 @@
 
 - [Цикл постов о Nape 2](http://flashnotes.ru/nape-2-soderzhanie.html)
 
+- [Разработка flash игр. Nape](http://flash-develop.blogspot.com/search/label/nape)
+
+- [Новый nape](http://gamedevblogs.ru/blog/box2d/755.html)
+
 
 **Видеоуроки**
 
@@ -27,6 +31,8 @@
 - [Очень много полезных штук для AS3 #1](http://habrahabr.ru/post/112347/)
 
 - [Очень много полезных штук для AS3 #2](http://habrahabr.ru/post/112507/)
+
+- [Что такое Entity System Framework и зачем он нужен в геймдеве?](habrahabr.ru/post/197920/)
 
 - AS3 Code Libraries (APIs)
 

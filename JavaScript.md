@@ -6,9 +6,13 @@
 
 **Онлайн-учебники**
 
-- [Современный учебник JavaScript](https://learn.javascript.ru)
+- [JavaScript.ru](https://javascript.ru)
 
-- [Справочник JavaScript](http://javascript.ru/manual)
+  * [Современный учебник JavaScript](https://learn.javascript.ru)
+
+  * [Современные возможности ES-2015](https://learn.javascript.ru/es-modern)
+
+  * [Справочник JavaScript](http://javascript.ru/manual)
 
 - [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
@@ -100,6 +104,8 @@
 
   * [Используем requestAnimationFrame](http://forwebdev.ru/javascript/using-requestanimationframe/)
 
+- [Сад JavaScript: Объекты](http://habrahabr.ru/post/250481/)
+
 
 
 ## Библиотеки
@@ -156,6 +162,8 @@
 
   * [Examples](http://www.angular.ru/cookbook/)
 
+- [Matreshka.js на русском](http://ru.matreshka.io/#!home)
+
 
 **Видеоуроки**
 
@@ -210,3 +218,12 @@
 - [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw)
 
   * [jquery](https://www.youtube.com/playlist?list=PLcVuGt1dXgc1pUPgsJIffzQrvJO33YofH)
+
+- [Monsterlessons. AngularJS ](https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP)
+
+- [EoSGame. Уроки JavaScript](https://www.youtube.com/playlist?list=PLolUqTtdC1dWRSe7UuH-y5TLoTWtBvQl4)
+
+
+**Статьи**
+
+- [AngularJS советы от команды PayPal](http://stepansuvorov.com/blog/2015/11/angularjs-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BE%D1%82-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-paypal/)
