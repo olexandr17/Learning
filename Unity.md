@@ -68,3 +68,11 @@
 - [Валерий Беляев. Программирование на C# под Unity](https://www.youtube.com/playlist?list=PLY7lEIeNqQdOsBi2QxPVgqLVecv3Br4TM)
 
 - [MILKY VOICE. Unity3d Tutorial](https://www.youtube.com/playlist?list=PLFCLzizKRCYdI2oM7g-NK63K465E8QsJQ)
+
+- [Zionn.Game.Room](https://www.youtube.com/channel/UCtpgnWrMynRl869Snx52n6w/featured)
+
+  * [Beginner Editor. Редактор Unity 3d для начинающих](https://www.youtube.com/playlist?list=PLaFq8TU0NWUGgTpexYrvFn_KUUkfU1WjQ)
+
+  * [Unity 3d 4.6 Survival Shooter на русском](https://www.youtube.com/playlist?list=PLaFq8TU0NWUEd5wjaRexgs8E17NrBeD1j)
+
+  * [Навигация Unity 3d](https://www.youtube.com/playlist?list=PLaFq8TU0NWUHUuUWm0nXz4zpefJdhPelC)

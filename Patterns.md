@@ -55,3 +55,5 @@
   * [Внедрение зависимостей. Шаблоны](http://andrey.moveax.ru/post/dependency-injection-patterns)
 
   * [Внедрение зависимостей. Антишаблоны](http://andrey.moveax.ru/post/dependency-injection-antipatterns)
+
+- [Типичный программист. Конечный автомат: теория и реализация](http://tproger.ru/translations/finite-state-machines-theory-and-implementation/)

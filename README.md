@@ -22,6 +22,8 @@
 
 [Шаблоны проектирования](Patterns.md)
 
+[Алгоритмы](Algorithms.md)
+
 [Инструменты](Tools.md)
 
 [Курсы](Courses.md)

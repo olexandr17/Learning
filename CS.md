@@ -34,6 +34,8 @@
 
 - [Сборник рецептов](http://codearticles.ru/catalogs)
 
+- [Типичный программист. Функциональный C#](http://tproger.ru/translations/functional-c-immutability/)
+
 - [Kottans. CSharp presentations](http://kottans.org/csharp-slides/)
 
 
