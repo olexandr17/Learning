@@ -8,6 +8,10 @@
 
 - Документация по многим технологиям - [DevDocs](http://devdocs.io/)
 
+- Шпаргалки по многим технологиям - [OverAPI](http://overapi.com/)
+
+- Много инструментов по многим технологиям - [OverAPI](http://overapi.com/developer-tools)
+
 - Шаринг кода - [Pastebin](http://pastebin.com/)
 
 - Песочница HTML - [HTML Sandbox](http://codepen.io/)
