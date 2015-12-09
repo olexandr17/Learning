@@ -6,6 +6,8 @@
 
 **Ссылки**
 
+- Документация, песочница и инструменты по многим технологиям - [TutorialsPoint](http://www.tutorialspoint.com/index.htm)
+
 - Документация по многим технологиям - [DevDocs](http://devdocs.io/)
 
 - Шпаргалки по многим технологиям - [OverAPI](http://overapi.com/)
