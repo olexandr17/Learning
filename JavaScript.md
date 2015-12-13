@@ -164,6 +164,10 @@
 
 - [Matreshka.js на русском](http://ru.matreshka.io/#!home)
 
+- [Learn Angular. Interactive guide](http://www.learn-angular.org/)
+
+- [Try JQuery. Interactive guide](http://try.jquery.com)
+
 
 **Видеоуроки**
 
