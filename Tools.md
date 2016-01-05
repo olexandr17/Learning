@@ -56,6 +56,11 @@
 - [Быстрое создание C# классов на базе json или xml](http://andrey.moveax.ru/post/tools-visualstudio-paste-as-json-or-xml)
 
 
+**Видеоуроки**
+
+- [splincode. Инструменты разработчика](https://www.youtube.com/playlist?list=PLQwXjjTVqyUGIg7hvbQmwo8GC-ei4okPx)
+
+
 **Подборки**
 
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
