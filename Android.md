@@ -66,3 +66,11 @@
   * [Уроки по android разработке](http://www.fandroid.info/category/uroki/androdid_development_tutorials/)
 
   * [Игры для android. LibGDX](http://www.fandroid.info/category/uroki/igry-dlya-android/)
+
+- [Now Android](https://www.youtube.com/channel/UCOsPXmrzEXW93vtpMllNpqg)
+
+  * [Уроки по разработке приложений ](https://www.youtube.com/playlist?list=PLvqW4wlh9oP7Joa2E4zUYHmGXN4DR-P8A)
+
+  * [Создаем текстовый редактор](https://www.youtube.com/playlist?list=PLvqW4wlh9oP5BKPGGNUvwNS3_snp_ldkO)
+
+  * [Создаем приложение список дел](https://www.youtube.com/playlist?list=PLvqW4wlh9oP6AsGyzZqIsGi6UlmHOsStw)

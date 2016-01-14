@@ -106,6 +106,8 @@
 
 - [Сад JavaScript: Объекты](http://habrahabr.ru/post/250481/)
 
+- [ES6](http://jsraccoon.ru/)
+
 
 
 ## Библиотеки

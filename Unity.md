@@ -76,3 +76,14 @@
   * [Unity 3d 4.6 Survival Shooter на русском](https://www.youtube.com/playlist?list=PLaFq8TU0NWUEd5wjaRexgs8E17NrBeD1j)
 
   * [Навигация Unity 3d](https://www.youtube.com/playlist?list=PLaFq8TU0NWUHUuUWm0nXz4zpefJdhPelC)
+
+- [Игродел Мастер](https://www.youtube.com/user/igrofresh)
+
+  * [Unity Уроки - Бесплатные уроки по Unity](https://www.youtube.com/playlist?list=PLpyssslyeRz7A8nMWqpcVj8JQDj_lJ-mx)
+
+  * [Как создать игру в Unity для начинающих](https://www.youtube.com/playlist?list=PLpyssslyeRz4rM8nWJR07emy1QipWieOj)
+
+  * [Переводы официальных уроков Unity](https://www.youtube.com/playlist?list=PLpyssslyeRz6Yd4SdrY-O_kyFiyeK8w6l)
+
+  * [Unity Master - качественные уроки по Unity](https://www.youtube.com/playlist?list=PLpyssslyeRz4GmReE74fthPqaFieQ8mEZ)
+
