@@ -20,6 +20,12 @@
 
   * [Часть 3: Расширенная маршрутизация](http://canonium.com/articles/series-getting-started-node-part-3-advanced-routing)
 
+- [WebReference](https://webref.ru/)
+
+  * [Создание первого приложения на Node](https://webref.ru/dev/first-node-app)
+
+  * [Node, Express и libsass: проект с нуля](https://webref.ru/dev/node-express-libsass)
+
 
 **Видеоуроки**
 

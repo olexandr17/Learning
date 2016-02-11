@@ -28,10 +28,6 @@
 
   * [Программирование под Android](http://metanit.com/java/android/index.php)
 
-- [Fandroid](http://www.fandroid.info)
-
-  * [Курс для начинающих разработчиков Android приложений](http://www.fandroid.info/kurs-dlya-razrabotchikov-android-prilozhenij-chast-1-pristupaem-k-rabote/)
-
 
 **Видеоуроки**
 
@@ -51,7 +47,17 @@
 
 - [Android Game Creator](https://www.youtube.com/user/androidgamecreator/videos)
 
-- [Start Android. Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+- [Start Android](https://www.youtube.com/user/vitaxafication/featured)
+
+  * [R id team. Программирование под Android. Разработчики делятся опытом](https://www.youtube.com/playlist?list=PLyfVjOYzujuj3aS9MliT-qPJItjYZLN7H)
+
+  * [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+
+  * [Дизайн android приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujugPnav0g4l0GGOPbj_vUf93)
+
+  * [Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+
+  * [Cоздание игры для андроид. Libgdx](https://www.youtube.com/playlist?list=PLyfVjOYzujujuuyd0B97SoW2K99663B_x)
 
 - [Мурдза Юрий](https://www.youtube.com/channel/UCESfDwV_FagagN1HJcwlL5w)
 
@@ -60,12 +66,6 @@
   * [LibGDX 3d game dev](https://www.youtube.com/playlist?list=PL6nuOFXWusdHD6M8aiouF-uPVl0lITrP8)
 
   * [LibGDX 3d уроки](https://www.youtube.com/playlist?list=PL6nuOFXWusdFhgWKPfq__8o0SAHKJVfUw)
-
-- [Fandroid](http://www.fandroid.info)
-
-  * [Уроки по android разработке](http://www.fandroid.info/category/uroki/androdid_development_tutorials/)
-
-  * [Игры для android. LibGDX](http://www.fandroid.info/category/uroki/igry-dlya-android/)
 
 - [Now Android](https://www.youtube.com/channel/UCOsPXmrzEXW93vtpMllNpqg)
 

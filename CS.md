@@ -61,7 +61,11 @@
 
 - [ITVDN](https://www.youtube.com/user/CBSystematicsTV/playlists)
 
-  * [Видеокурс по Entity Framework 6](https://www.youtube.com/playlist?list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN)
+  * [C# Starter, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw8mPneP_MS_B8K6SUVCCZ01)
+
+  * [C# Essential, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw9Ypjrcgaq0QI84lfHvhP7p)
+
+  * [C# Essential Express](https://www.youtube.com/playlist?list=PLvItDmb0sZw-vQV7Xw8tqiBhLQs2LHGHY)
 
   * [Видеокурс по C# Для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw8gJ0TgeSKeqLzIywwLGnS9)
 
@@ -69,7 +73,11 @@
 
   * [Видеокурс по C# Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-sOL6sOsEnSJ8etu7Kbgko)
 
-  * [Видеокурс по Рефакторингу .NET приложений](https://www.youtube.com/playlist?list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf)
+  * [Видеокурс WPF](https://www.youtube.com/playlist?list=PLvItDmb0sZw_cBGQO10bZje02VQOqTwSh)
+
+  * [Видеокурс WPF Углубленный](https://www.youtube.com/playlist?list=PLvItDmb0sZw_4TkjSAf0vqeLkCeMQqoBU)
+
+  * [Видеокурс по Entity Framework 6](https://www.youtube.com/playlist?list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN)
 
   * [Видеокурс по ASP.NET Базовому](https://www.youtube.com/playlist?list=PLvItDmb0sZw8qA87QMQbx5RpPO_dfCGOy)
 
@@ -79,7 +87,7 @@
 
   * [Видеокурс по ASP.NET MVC 4](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Jw1p2lXy9STvRqMWxeypG)
 
-  * [C# Starter, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw8mPneP_MS_B8K6SUVCCZ01)
+  * [Видеокурс по Рефакторингу .NET приложений](https://www.youtube.com/playlist?list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf)
 
   * [MSDN](https://www.youtube.com/playlist?list=PLvItDmb0sZw_DkwLGwaJSZGabzwm_wrUw)
 

@@ -48,6 +48,25 @@
 
 - Онлайн-таймер - [E.ggTimer](http://e.ggtimer.com/)
 
+- XML-инструменты - [XmlGrid.net](http://view.xmlgrid.net/)
+
+- JSON-генератор - [JSON-generator](http://www.json-generator.com/)
+
+- JSON-редактор - [JSON-editor](http://www.jsoneditoronline.org/)
+
+
+**Онлайн-учебники**
+
+- [WebReference](https://webref.ru/)
+
+  * [Сборка с Gulp](https://webref.ru/dev/building-with-gulp)
+
+  * [Приступая к работе с Grunt](https://webref.ru/dev/grunt-getting-started)
+
+  * [Автоматизация работы с Gulp](https://webref.ru/dev/automate-with-gulp)
+
+  * [Bower, Gulp и Yeoman](https://webref.ru/dev/bower-gulp-yeoman)
+
 
 **Статьи**
 

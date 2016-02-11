@@ -14,6 +14,10 @@
 
 - [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 
+- [Devionity](https://devionity.com/ru/courses)
+
+  * [Основы Git](http://devionity.com/ru/courses/git-basics)
+
 
 **Видеоуроки**
 

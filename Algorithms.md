@@ -21,3 +21,10 @@
   * [Множества](http://tproger.ru/translations/sets-for-beginners/)
 
   * [Сортировка](http://tproger.ru/translations/sorting-for-beginners/)
+
+
+**Видеоуроки**
+
+- [ITVDN](https://www.youtube.com/user/CBSystematicsTV/playlists)
+
+  * [Видеокурс по Алгоритмам и структурам данных](https://www.youtube.com/playlist?list=PLvItDmb0sZw8mT-wPuKNyPJBLj5tXqX83)

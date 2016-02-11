@@ -32,6 +32,23 @@
 
 - [ES6 изнутри](http://css-live.ru/articles/obzor-es6-v-350-punktax.html)
 
+- [Devionity](https://devionity.com/ru/courses)
+
+  * [Javascript и jQuery](http://devionity.com/ru/courses/js-fundamentals-and-jquery)
+
+  * [Изучаем AJAX](http://devionity.com/ru/courses/dive-into-ajax)
+
+- [WebReference](https://webref.ru/)
+
+  * [Глубокое погружение в Canvas](https://webref.ru/dev/canvasdeepdive)
+
+  * [Знакомство с JavaScript](https://webref.ru/dev/learn-javascript)
+
+  * [Основы jQuery](https://webref.ru/dev/jqfundamentals)
+
+  * [AngularJS. Рецепты программирования](https://webref.ru/dev/angular-cookbook)
+
+
 
 **Видеоуроки**
 
@@ -228,6 +245,18 @@
 - [Monsterlessons. AngularJS ](https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP)
 
 - [EoSGame. Уроки JavaScript](https://www.youtube.com/playlist?list=PLolUqTtdC1dWRSe7UuH-y5TLoTWtBvQl4)
+
+- [SmartMe](http://smartme.university/)
+
+  * [React от А до Я](http://smartme.university/course/react-ot-a-do-ya/)
+
+- [Ausite Blog](https://www.youtube.com/channel/UCS4siVGRQuIb3nBNu4Sv4Lg/featured)
+
+  * [Riot.js](https://www.youtube.com/playlist?list=PLEyOhcqU3T9WLQSYtCdepuR_OIaDrTZ_C)
+
+  * [Vue.js](https://www.youtube.com/playlist?list=PLEyOhcqU3T9VL6wathF8CoHnHGvUAdzq6)
+
+  * [Vue.js. Табличный редактор](https://www.youtube.com/playlist?list=PLEyOhcqU3T9VWDdrK0wrFhs1CW3aTOtvE)
 
 
 **Статьи**

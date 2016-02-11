@@ -87,3 +87,6 @@
 
   * [Unity Master - качественные уроки по Unity](https://www.youtube.com/playlist?list=PLpyssslyeRz4GmReE74fthPqaFieQ8mEZ)
 
+- [ITVDN](https://www.youtube.com/user/CBSystematicsTV/playlists)
+
+  * [Видеокурс Unity3D Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC)

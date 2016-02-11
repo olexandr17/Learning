@@ -4,6 +4,15 @@
 ## HTML, CSS
 
 
+**Справочники**
+
+- [WebReference](https://webref.ru/)
+
+  * [Справочник HTML](https://webref.ru/html)
+
+  * [Справочник CSS](https://webref.ru/css)
+
+
 **Онлайн-учебники**
 
 - [HTMLBook](http://htmlbook.ru)
@@ -20,6 +29,28 @@
 
 - [HTML5 Canvas](http://www.html5canvas.ru/p/tutorial.html)
 
+- [CSS-LIVE. Web Animations API](http://css-live.ru/tag/web-animations-api)
+
+- [WebReference](https://webref.ru/)
+
+  * [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css)
+
+  * [Погружение в HTML5](https://webref.ru/layout/diveintohtml5)
+
+  * [Магия CSS](https://webref.ru/layout/magic-of-css)
+
+  * [Как верстать на HTML5 и CSS3](https://webref.ru/layout/howtocodeinhtml)
+
+  * [Sass](https://webref.ru/layout/sass)
+
+  * [Less](https://webref.ru/layout/less)
+
+  * [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
+
+  * [Bootstrap](https://webref.ru/layout/bootstrap)
+
+  * [Font Awesome](https://webref.ru/layout/font-awesome)
+
 
 **Видеоуроки**
 
@@ -34,6 +65,12 @@
 - [ITVDN](https://www.youtube.com/user/CBSystematicsTV/playlists)
 
   * [Видеокурс по HTML5, CSS3](https://www.youtube.com/playlist?list=PLvItDmb0sZw9cJossgyJepu6N9hybEjKU)
+
+  * [Видеокурс по HTML&CSS](https://www.youtube.com/playlist?list=PLvItDmb0sZw-v7y3fP50Ao8AIlg00fSGQ)
+
+  * [Создание адаптивного сайта с Bootstrap3](https://www.youtube.com/playlist?list=PLvItDmb0sZw93NnA4M9kE-SbXOVSVfe8R)
+
+  * [HTML&CSS, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw8vk9vQAXdcO78sXT6oE4c9)
 
 - [Loftblog](http://loftblog.ru/courses/)
 
@@ -98,3 +135,23 @@
   * [CSS](https://www.youtube.com/playlist?list=PLcVuGt1dXgc26__OgVLF0mBFpeT9Nk_fq)
 
   * [SASS](https://www.youtube.com/playlist?list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z)
+
+- [Alexey Suprun](https://www.youtube.com/user/AlexeySuprun/featured)
+
+  * [Уроки HTML](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI)
+
+  * [Уроки CSS](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWYnBnKd42xrynzEegXzgxv)
+
+- [uWebDesign](https://www.youtube.com/user/uwebdesign/featured)
+
+  * [Все про SVG](https://www.youtube.com/playlist?list=PLZfRjCZl2NuS6s8ABvs_FLe63nt5Qo9Ec)
+
+  * [Все про CSS](https://www.youtube.com/playlist?list=PLZfRjCZl2NuQzChEACaA8wZ1Z8OFO7Xdf)
+
+  * [Все про Sass и Compass](https://www.youtube.com/playlist?list=PLZfRjCZl2NuQr8v2_DV8ZX6a03gntn7yU)
+
+- [Devionity](https://devionity.com/ru/courses)
+
+  * [Основы CSS](http://devionity.com/ru/courses/css-fundamentals)
+
+  * [Основы HTML](http://devionity.com/ru/courses/html-fundamentals)

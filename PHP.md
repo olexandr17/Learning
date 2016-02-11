@@ -12,6 +12,12 @@
 
 - [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
 
+- [Devionity](https://devionity.com/ru/courses)
+
+  * [Изучаем PHP онлайн. Часть I](http://devionity.com/ru/courses/php-fundamentals)
+
+  * [Изучаем PHP онлайн. Часть II. ООП](http://devionity.com/ru/courses/php-oop)
+
 
 **Видеоуроки**
 
@@ -48,3 +54,7 @@
 - [Гоша Дударь](https://www.youtube.com/user/PlurrimiTube/playlists)
 
   * [Учим PHP, а также MySQL](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXm69bqj5JTCS1XGTNkhTch)
+
+- [Devionity](https://devionity.com/ru/courses)
+
+  * [MVC. Собственный фреймворк с нуля!](http://devionity.com/ru/courses/creating-mvc-framework)
