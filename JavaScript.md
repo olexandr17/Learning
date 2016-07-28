@@ -125,6 +125,8 @@
 
 - [ES6](http://jsraccoon.ru/)
 
+- [ES6 по-человечески](https://habrahabr.ru/post/305900/)
+
 
 
 ## Библиотеки
@@ -151,6 +153,8 @@
 - [Moment](http://momentjs.com/)
 
 - [Stage](http://piqnt.com/stage.js/)
+
+- [Ng-Lightning](http://ng-lightning.github.io/ng-lightning/#/)
 
 
 **Онлайн-учебники**

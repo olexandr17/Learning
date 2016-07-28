@@ -54,6 +54,8 @@
 
 - JSON-редактор - [JSON-editor](http://www.jsoneditoronline.org/)
 
+- CSS-аниматор - [CSS-gradient-animator](https://www.gradient-animator.com/)
+
 
 **Онлайн-учебники**
 
@@ -83,3 +85,9 @@
 **Подборки**
 
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
+
+
+**Софт**
+
+- [Bootstrap Studio](https://bootstrapstudio.io/)
+
