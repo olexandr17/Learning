@@ -141,6 +141,8 @@
   * [Уроки HTML](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI)
 
   * [Уроки CSS](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWYnBnKd42xrynzEegXzgxv)
+  
+  * [Уроки по Bootstrap 3](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWqjumN9DPrWDO_HbmChuZt)
 
 - [uWebDesign](https://www.youtube.com/user/uwebdesign/featured)
 

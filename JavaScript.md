@@ -215,6 +215,8 @@
 - [Loftblog](http://loftblog.ru/courses/)
 
   * [Angular + Webpack](http://loftblog.ru/category/courses/angular-webpack/)
+  
+  * [Основы Angular 2](https://www.youtube.com/playlist?list=PLY4rE9dstrJyG5PRoPYIoJoIXCyj6mdmt)
 
   * [Backbone.js](http://loftblog.ru/category/courses/backbonejs/)
 
@@ -246,7 +248,17 @@
 
   * [jquery](https://www.youtube.com/playlist?list=PLcVuGt1dXgc1pUPgsJIffzQrvJO33YofH)
 
-- [Monsterlessons. AngularJS ](https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP)
+- [Monsterlessons](https://www.youtube.com/channel/UCyUFMVZ6VnbB5a8d_EyrFBQ/feed)
+
+  * [AngularJS](https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP)
+  
+  * [AngularJS 2](https://www.youtube.com/playlist?list=PLIcAMDxr6tpprBS29b8IJMhZVcymPr-lM)
+  
+  * [ReactJS](https://www.youtube.com/playlist?list=PLIcAMDxr6tpoShAiU0Nh_nBtg19XWbCql)
+  
+  * [Redux React](https://www.youtube.com/playlist?list=PLIcAMDxr6tprSzqKmfhDiW00GWbDcs8lE)
+  
+  * [Lodash](https://www.youtube.com/playlist?list=PLIcAMDxr6tprlJD1uUXo8-1R3RMqoEPjT)
 
 - [EoSGame. Уроки JavaScript](https://www.youtube.com/playlist?list=PLolUqTtdC1dWRSe7UuH-y5TLoTWtBvQl4)
 

@@ -74,3 +74,7 @@
   * [Создаем текстовый редактор](https://www.youtube.com/playlist?list=PLvqW4wlh9oP5BKPGGNUvwNS3_snp_ldkO)
 
   * [Создаем приложение список дел](https://www.youtube.com/playlist?list=PLvqW4wlh9oP6AsGyzZqIsGi6UlmHOsStw)
+  
+- [Skill Branch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw/feed)
+
+  * [Intensive: Android](https://www.youtube.com/playlist?list=PLVFlo87bKU8LBC4vQLo3E6Gghg9U0uALj)

@@ -41,6 +41,10 @@
 
 - [Ilya Kantor. Скринкаст по Node.JS](https://www.youtube.com/playlist?list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)
 
+- [Skill Branch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw/feed)
+
+  * [Intensive: Node.js & React.js](https://www.youtube.com/playlist?list=PLVFlo87bKU8KuovXhT3e1pk0lZNMoOK-e)
+
 
 
 **Статьи**
